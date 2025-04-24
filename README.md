@@ -24,6 +24,15 @@ npm run start<br>
 cd ..<br>
 npm install<br>
 npm start<br>
+# System Requirements
+‣ Node.js v14+<br>
+‣ MongoDB<br>
+‣ Git<br>
+‣ Modern web browser<br>
+# Limitations
+∙ No real-time order tracking<br>
+∙ No real payment integration<br>
+∙ No customer reviews or feedback system<br>
 # Future Improvements
 ◘ Razorpay integration for real payments<br>
 ◘ Delivery tracking<br>
