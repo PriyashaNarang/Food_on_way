@@ -17,7 +17,7 @@ FoodOnWay is a modern, full-stack food delivery web application built with the M
 ⦿ JWT Authentication<br>
 ⦿ Bcrypt for password hashing<br>
 # Installation
-git clone https://github.com/PriyashaNarang/foodonway.git<br>
+git clone https://github.com/PriyashaNarang/Food_on_way.git<br>
 cd backend<br>
 npm install<br>
 npm run start<br>
